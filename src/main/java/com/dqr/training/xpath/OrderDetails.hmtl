@@ -1,0 +1,12 @@
+<html>
+   <body>
+      <h1>Order Details:</h1>
+      <h2>Order Id:12345</h2>
+      <h3>Customer Name:Sparsa Reddy</h3>
+      	Sparsa Reddy
+      	<br>Item Name: IPHONE 7<br>Price: 700<b> (Free Shipping)</b>
+      	<br>Item Name: IPAD<br>Price: 600<b> (Free Shipping)</b>
+      	<br>Item Name: PERSONAL DEVELOPMENT BOOK<br>Price: 11<b> (Should be purchased with an item whose price is greater than $100)</b>
+      	<br>Item Name: JAVA BOOK<br>Price: 21<b> (Should be purchased with an item whose price is greater than $100)</b>
+      <br><br><b>Total Number of Items in the order: 4</b><br><br><b>Total Price of the  order: 1331.9999999999998</b></body>
+</html>
